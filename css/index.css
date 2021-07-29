@@ -3465,44 +3465,34 @@ span.categoryBar-list-count::after {
   right: -100%;
 }
 li.categoryBar-list-item:nth-child(1) {
-  background: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/image/cover1.webp');
+  background: url('https://unpkg.zhimg.com/code-neo-picbed@1.0.9/img/saber01.png');
 }
 li.categoryBar-list-item:nth-child(2) {
-  background: #abcdef;
+  background: url('https://unpkg.zhimg.com/code-neo-picbed@1.0.9/img/sakura01.png');
 }
 li.categoryBar-list-item:nth-child(3) {
-  background: rgba(45,67,89,0.7);
+  background: url('https://unpkg.zhimg.com/code-neo-picbed@1.0.9/img/maxiu01.png');
 }
 li.categoryBar-list-item:nth-child(4) {
-  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
-  background: -moz-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
-  background: -o-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
-  background: -ms-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
-  background: linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
+  background: url('https://unpkg.zhimg.com/code-neo-picbed@1.0.9/img/lin01.jpg');
 }
 li.categoryBar-list-item:nth-child(5) {
-  background: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/image/cover5.webp');
+  background: url('https://unpkg.zhimg.com/code-neo-picbed@1.0.9/img/yiliya02.jpg');
 }
 li.categoryBar-list-item:nth-child(6) {
-  background: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/image/cover6.webp');
+  background: url('https://unpkg.zhimg.com/code-neo-picbed@1.0.9/img/basaka01.png');
 }
 li.categoryBar-list-item:nth-child(1)>span::after {
-  content: 'Java' !important;
+  content: '求学路上的小写小抄，俗话说的好：好记性不如烂笔头。' !important;
 }
 li.categoryBar-list-item:nth-child(2)>span::after {
-  content: 'vue' !important;
+  content: '好看的电影、电视剧、二次元番剧等等小杂烩。' !important;
 }
 li.categoryBar-list-item:nth-child(3)>span::after {
-  content: 'Spring' !important;
+  content: '比较复杂软件安装卸载的教程。' !important;
 }
 li.categoryBar-list-item:nth-child(4)>span::after {
-  content: 'Mysql' !important;
-}
-li.categoryBar-list-item:nth-child(5)>span::after {
-  content: '算法' !important;
-}
-li.categoryBar-list-item:nth-child(6)>span::after {
-  content: '杂谈教程' !important;
+  content: '金句摘抄，读书好句不容错过。' !important;
 }
 li.categoryBar-list-item {
   width: 32.3% !important;

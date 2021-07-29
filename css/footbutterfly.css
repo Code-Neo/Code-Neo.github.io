@@ -95,3 +95,15 @@ div#category{
   #footer{
 	  background: #cc003300!important;
   }
+
+#nav .menus_items {
+    display: inline;
+    font-size: 22px!important;
+}
+
+#nav #site-name {
+    text-shadow: 0.1rem 0.1rem 0.2rem rgb(0 0 0 / 15%);
+    font-weight: bold;
+    cursor: pointer;
+	font-size: 22px!important;
+}
